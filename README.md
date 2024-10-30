@@ -13,6 +13,5 @@ Buy Aryanshi a Coffee" is a decentralized application (dApp) built on the AIA bl
 - Personalized Messages: Include a name and message with each token transfer.
 - Transaction Record: View previous supporters and their messages on the dApp interface.
 
-
-https://github.com/user-attachments/assets/dddc6929-0e4e-469d-bf34-9c06d585899d
+https://github.com/user-attachments/assets/cc87c591-3b47-4b9b-9364-6fc7bc6bade3
 
